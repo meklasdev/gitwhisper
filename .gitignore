@@ -1,0 +1,19 @@
+# Binaries
+gitwhisper.exe
+gitwhisper
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Config with secrets
+.gitwhisper.yaml
+.env
+
+# Editor directories
+.vscode/
+.idea/
+
+# Go junk
+vendor/
+go.sum

@@ -1,0 +1,19 @@
+ai:
+  # Choose your provider: openai, ollama, gemini, openai-compatible
+  provider: ollama
+
+  # OpenAI Configuration
+  openai_api_key: "your-openai-api-key"
+  openai_model: "gpt-4o"
+
+  # Ollama Configuration (Local)
+  ollama_endpoint: "http://localhost:11434/api/generate"
+  ollama_model: "mistral" # or 'qwen:14b', 'llama3'
+
+  # Gemini Configuration (Google)
+  gemini_api_key: "your-gemini-api-key"
+  gemini_model: "gemini-pro"
+
+  # Generic OpenAI Compatible Configuration
+  # Use this for other providers like DeepSeek, Groq, or self-hosted wrappers
+  openai_base_url: "https://api.deepseek.com/v1/chat/completions"
