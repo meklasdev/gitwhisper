@@ -169,8 +169,8 @@ MIT © [meklas](https://github.com/meklas)
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/meklas/gitwhisper)** if you find it useful!
+**[⭐ Star this repo](https://github.com/meklasdev/gitwhisper)** if you find it useful!
 
-Made with ❤️ and Go
+Made by **[meklas](https://github.com/meklasdev)** with Go ⚡
 
 </div>
