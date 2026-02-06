@@ -163,7 +163,7 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
 
 ## � License
 
-MIT © [meklas](https://github.com/meklas)
+MIT © [meklasdev](https://github.com/meklasdev)
 
 ---
 
